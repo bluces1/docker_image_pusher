@@ -8,3 +8,4 @@ xhofe/alist:latest
 hagb/docker-easyconnect:cli
 hagb/docker-easyconnect:7.6.7
 hagb/docker-atrust
+serjs/go-socks5-proxy
