@@ -1,1 +1,8 @@
-redis:5.0.12
+rabbitmq:3.8.17-management
+minio/minio:RELEASE.2021-06-09T18-51-39Z
+postgres:12.7
+mysql:8.0.41
+elasticsearch:7.16.2
+nacos/nacos-server:2.0.3
+nacos/nacos-server:v2.1.0
+apache/iotdb:0.13.1-node
