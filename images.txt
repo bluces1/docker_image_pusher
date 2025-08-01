@@ -1,1 +1,1 @@
-dbeaver/base-java:stable
+dbeaver/cloudbeaver:25.1.3
