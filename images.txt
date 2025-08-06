@@ -1,1 +1,2 @@
-dbeaver/cloudbeaver:25.1.3
+portainer/agent:2.16.2
+serjs/go-socks5-proxy:latest
