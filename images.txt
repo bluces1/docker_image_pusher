@@ -1,2 +1,1 @@
-portainer/agent:2.16.2
-serjs/go-socks5-proxy:latest
+yusiwen/qianxin-client:1.2.1.463
