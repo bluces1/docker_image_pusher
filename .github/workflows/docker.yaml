@@ -9,7 +9,8 @@ on:
 jobs:
 
   build:
-    environment: leadigital
+    #environment: leadigital
+    environment: ${{ vars.ENV }}
     name: Pull
     runs-on: ubuntu-latest
     steps:
