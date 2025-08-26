@@ -1,1 +1,1 @@
-yusiwen/qianxin-client:1.2.1.386
+docker.elastic.co/beats/filebeat:8.11.3
