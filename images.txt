@@ -1,1 +1,1 @@
-bruni68510/dcevm8:latest
+dbeaver/cloudbeaver:latest
