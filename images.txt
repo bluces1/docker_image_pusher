@@ -1,1 +1,1 @@
-postgres:18.4-bookworm
+apache/superset:GHA-31470051131
