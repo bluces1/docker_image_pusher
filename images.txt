@@ -1,1 +1,1 @@
-metabase/metabase:latest
+postgres:18.4
