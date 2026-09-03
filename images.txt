@@ -1,1 +1,1 @@
-apache/superset:GHA-31470051131
+portainer/portainer-ce:2.45.0
