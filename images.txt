@@ -1,1 +1,1 @@
-apache/superset:6.0.0
+mailhog/mailhog:v1.0.1
