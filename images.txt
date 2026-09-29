@@ -1,1 +1,1 @@
-mailhog/mailhog:v1.0.1
+docker.elastic.co/beats/filebeat:7.17.2
