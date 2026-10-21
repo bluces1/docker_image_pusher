@@ -1,1 +1,1 @@
-nginx:stable-alpine
+headlamp/headlamp:latest
