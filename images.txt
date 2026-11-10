@@ -1,1 +1,1 @@
-keking/kkfileview:5.0.3
+portainer/portainer-ce:2.45.3
